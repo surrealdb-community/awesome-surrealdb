@@ -37,13 +37,16 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 ### Tutorials
 
-## Libraries for surealdb
+### Tools
+
+### Libraries for surealdb
+
 
 #### JavaScript / TypeScript
 
 [web]: https://img.shields.io/badge/-web-red
 [node]: https://img.shields.io/badge/-node-026e00
-[deno]: https://img.shields.io/badge/-deno-black
+[deno]: https://img.shields.io/badge/-deno-gray
 [bun]: https://img.shields.io/badge/-bun-e600e5
 
 
@@ -53,8 +56,15 @@ In this section, we use badges to indicate the targeted runtimes each library.
 
 <!--lint disable awesome-list-item-->
 
-- [surrealdb.js](https://github.com/surrealdb/surrealdb.js) - Official driver for JS / TS runtimes. [node] [deno] [bun] [web]
+- [surrealdb.js](https://github.com/surrealdb/surrealdb.js) - Official driver for JS / TS runtimes. ![node] ![deno] ![bun] ![web]
 - [surrealdb.worker](https://github.com/surrealdb-community/surrealdb.worker) - Framework-agnostic library ontop of `surrealdb.js` with reducing open connection per browser to 1 by using worker. ![web]
 
 <!--lint enable awesome-list-item-->
+
+#### Python
+- [surrealdb.py](https://github.com/surrealdb/surrealdb.py) - Official driver for Phython.
+
+#### Golang
+- [surrealdb.go](https://github.com/surrealdb/surrealdb.go) - Official driver for Golang.
+
 
