@@ -46,6 +46,15 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 [deno]: https://img.shields.io/badge/-deno-black
 [bun]: https://img.shields.io/badge/-bun-e600e5
 
-- [surrealdb.js](https://github.com/surrealdb/surrealdb.js) - ![web] ![node] ![deno] ![bun] - Official driver for JS / TS runtimes.
-- [surrealdb.worker](https://github.com/surrealdb-community/surrealdb.worker) - ![web] - Framework-agnostic library ontop of `surrealdb.js` with reducing open connection per browser to 1 by using worker.
+
+In this section, we use badges to indicate the targeted runtimes each library.
+
+![node] for node, ![deno] for deno, ![bun] for bun and ![web] for code that runs in the browser.
+
+<!--lint disable awesome-list-item-->
+
+- [surrealdb.js](https://github.com/surrealdb/surrealdb.js) - Official driver for JS / TS runtimes. [node] [deno] [bun] [web]
+- [surrealdb.worker](https://github.com/surrealdb-community/surrealdb.worker) - Framework-agnostic library ontop of `surrealdb.js` with reducing open connection per browser to 1 by using worker. ![web]
+
+<!--lint enable awesome-list-item-->
 
