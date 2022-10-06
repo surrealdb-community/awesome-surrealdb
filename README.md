@@ -46,6 +46,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 [deno]: https://img.shields.io/badge/-deno-black
 [bun]: https://img.shields.io/badge/-bun-e600e5
 
-- [surrealdb.js](https://github.com/surrealdb/surrealdb.js) ![web] ![node] ![deno] ![bun] - Official driver for JS / TS runtimes.
-- [surrealdb.worker](https://github.com/surrealdb/surrealdb.js) ![web] - Framework-agnostic library ontop of `surrealdb.js` with reducing open connection per browser to 1 by using worker.
+- [surrealdb.js](https://github.com/surrealdb/surrealdb.js) - ![web] ![node] ![deno] ![bun] - Official driver for JS / TS runtimes.
+- [surrealdb.worker](https://github.com/surrealdb-community/surrealdb.worker) - ![web] - Framework-agnostic library ontop of `surrealdb.js` with reducing open connection per browser to 1 by using worker.
 
